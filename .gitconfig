@@ -1,0 +1,2 @@
+[filter "ident-line"]
+  smudge = githook_ident-filter.pl %f
